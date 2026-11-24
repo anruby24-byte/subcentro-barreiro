@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.000
+PRUEBA DE SUBTÍTULOS.
+
+00:00:10.000 --> 00:00:20.000
+Subcentro de Salud Barreiro.
+
+00:00:20.000 --> 00:00:30.000
+Atención para toda la comunidad.
